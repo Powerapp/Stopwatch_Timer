@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloWold23</string>
+    <string name="title_activity_main">Hello World!</string>
+    <string name="title_section1">StopWatch</string>
+    <string name="title_section2">Timer</string>
+    <string name="action_settings">Settings</string>
+    <string name="start_stopwatch_button_label">Start</string>
+    <string name="stop_stopwatch_button_label">Stop</string>
+    <string name="reset_stopwatch_button_label">Reset</string>
+    <string name="start_timer_button_label">Start</string>
+    <string name="stop_timer_button_label">Stop</string>
+    <string name="reset_timer_button_label">Restart</string>
+    <string name="lap_stopwatch_button_label">Lap</string>
+    <string name="stop_timer_label">Stop</string>
+    <string name="timer_notification_title">Timer</string>
+    <string name="notification_message">Tid %s</string>
+    <string name="stopwacth_notification_label">Stopwatch: %s </string>
+    <string name="stop_alarm_button_label">Stop Alarm</string>
+    <string name="timer_label">30</string>
+
+</resources>
